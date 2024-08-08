@@ -11,35 +11,27 @@ This React application is designed to provide users with a seamless shopping exp
 ### Toastify 🎉, Tailwind CSS 💅, Daisy UI 🎨: For a beautiful and responsive UI.
 
 
+## ✨ Highlights
+### First React Project 🌱: Marks the beginning of my journey with React and Vite.
+### User-Friendly Interface 🏡: Designed to provide a seamless and enjoyable shopping experience.
+### Modern UI ✨: Utilizes Tailwind CSS and Daisy UI for a sleek and responsive design.
+
 ## 🚀 Getting Started
-
-
 
 ```markdown
-## 🚀 Getting Started
 
 To view the application, follow these steps:
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/serenity-furnish.git
-Navigate to the project directory:
+ git clone https://github.com/your-username/serenity-furnish.git
 
-bash
-Copy code
-cd serenity-furnish
-Install dependencies:
+Navigate to the project directory: cd serenity-furnish
 
-bash
-Copy code
-npm install
-Start the development server:
+Install dependencies: npm install
 
-bash
-Copy code
-npm run dev
-bash
-Copy code
+
+Start the development server: npm run dev
+
 
 ### Option 3: Tabulated Commands
 ```markdown
@@ -47,11 +39,4 @@ Copy code
 
 To view the application, follow these steps:
 
-| Step                        | Command                                          |
-|-----------------------------|--------------------------------------------------|
-| **Clone the repository**    | `git clone https://github.com/your-username/ser
 
-✨ Highlights
-First React Project 🌱: Marks the beginning of my journey with React and Vite.
-User-Friendly Interface 🏡: Designed to provide a seamless and enjoyable shopping experience.
-Modern UI ✨: Utilizes Tailwind CSS and Daisy UI for a sleek and responsive design.
