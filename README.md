@@ -8,15 +8,15 @@ This React application is designed to provide users with a seamless shopping exp
 
 ## 🛠️ Technologies Used
  #### Axios 📡: For easier data fetching.
- Redux Toolkit 🗃️: Replacing UseReducer and Context API for state management.
- React Router DOM 🚦: To create the routes.
- Toastify 🎉, Tailwind CSS 💅, Daisy UI 🎨: For a beautiful and responsive UI.
+ ####  Redux Toolkit 🗃️: Replacing UseReducer and Context API for state management.
+ ####  React Router DOM 🚦: To create the routes.
+ ####  Toastify 🎉, Tailwind CSS 💅, Daisy UI 🎨: For a beautiful and responsive UI.
 
 
 ## ✨ Highlights
-First React Project 🌱: Marks the beginning of my journey with React and Vite.
-User-Friendly Interface 🏡: Designed to provide a seamless and enjoyable shopping experience.
-Modern UI ✨: Utilizes Tailwind CSS and Daisy UI for a sleek and responsive design.
+ #### First React Project 🌱: Marks the beginning of my journey with React and Vite.
+ #### User-Friendly Interface 🏡: Designed to provide a seamless and enjoyable shopping experience.
+ #### Modern UI ✨: Utilizes Tailwind CSS and Daisy UI for a sleek and responsive design.
 
 ## 🚀 Getting Started
 
