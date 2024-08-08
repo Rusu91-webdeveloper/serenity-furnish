@@ -1,4 +1,6 @@
 # 🛋️ Serenity Furnish
+
+
 ## Welcome to Serenity Furnish, an online shop promoting a wide range of indoor furniture including chairs, tables, and other home essentials. This project is my first creation using React and Vite, showcasing my ability to build dynamic and responsive web applications.
 
 ## 🌟 Project Overview
@@ -25,18 +27,15 @@ To view the application, follow these steps:
 1. **Clone the repository**:
  git clone https://github.com/your-username/serenity-furnish.git
 
-Navigate to the project directory: cd serenity-furnish
+2.**Navigate to this folder**:
+  cd serenity-furnish
 
-Install dependencies: npm install
+3.**Install dependencies**:
+ npm install
+
+4.**Start the development server**:
+ npm run dev
 
 
-Start the development server: npm run dev
-
-
-### Option 3: Tabulated Commands
-```markdown
-## 🚀 Getting Started
-
-To view the application, follow these steps:
 
 
