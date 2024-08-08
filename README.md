@@ -10,33 +10,11 @@ This React application is designed to provide users with a seamless shopping exp
 ### React Router DOM 🚦: To create the routes.
 ### Toastify 🎉, Tailwind CSS 💅, Daisy UI 🎨: For a beautiful and responsive UI.
 
-🚀 Getting Started
+
 ## 🚀 Getting Started
 
-To view the application, follow these steps:
 
-- **Clone the repository**:
-  ```bash
-  git clone https://github.com/your-username/serenity-furnish.git
-Navigate to the project directory:
 
-bash
-Copy code
-cd serenity-furnish
-Install dependencies:
-
-bash
-Copy code
-npm install
-Start the development server:
-
-bash
-Copy code
-npm run dev
-perl
-Copy code
-
-### Option 2: Numbered List with Code Blocks
 ```markdown
 ## 🚀 Getting Started
 
