@@ -7,7 +7,7 @@
 This React application is designed to provide users with a seamless shopping experience, offering a variety of indoor furniture items for the house.
 
 ## 🛠️ Technologies Used
- Axios 📡: For easier data fetching.
+ #### Axios 📡: For easier data fetching.
  Redux Toolkit 🗃️: Replacing UseReducer and Context API for state management.
  React Router DOM 🚦: To create the routes.
  Toastify 🎉, Tailwind CSS 💅, Daisy UI 🎨: For a beautiful and responsive UI.
